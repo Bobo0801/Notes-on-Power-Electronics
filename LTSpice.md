@@ -8,7 +8,7 @@ https://forum.allaboutcircuits.com/threads/good-tutorial-how-to-create-new-model
 ## Simulation Command
 https://ltwiki.org/index.php?title=Simulation_Command
 
-##LTSpice-Libraries
+## LTSpice-Libraries
 https://github.com/evenator/LTSpice-Libraries/tree/master
 
 ## Examples
